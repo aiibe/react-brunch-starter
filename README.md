@@ -4,8 +4,8 @@ A simple skeleton with React for [Brunch](http://brunch.io).
 
 ## Installation
 
-Clone this repo `git clone https://github.com/aiibe/react-brunch-starter.git`
-Install dependencies `npm install`
+Clone this repo `git clone https://github.com/aiibe/react-brunch-starter.git`.
+Install dependencies `npm install`.
 
 ## Getting started
 
